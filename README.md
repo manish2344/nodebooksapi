@@ -36,6 +36,11 @@ Update book http://localhost:8000/api/edit/:bookId
 
 Delete book http://localhost:8000/api/delete/:bookId
 
+
+
+
+
+
 api server => https://booksapi-3664.onrender.com
 
 all endpoints
