@@ -18,9 +18,11 @@ API will therefore run on port 8000
 Step 4: Test the API endpoints
 This is an API that manages books:
 
-title: the title of the book
-author: the author's of the book
-summary: a brief description of the books (at least 15 characters)
+=>title: the title of the book
+
+=>author: the author's of the book
+
+=>summary: a brief description of the books (at least 15 characters)
 
 application endponts
 Add book http://localhost:8000/api/add
