@@ -25,8 +25,13 @@ This is an API that manages books:
 =>summary: a brief description of the books (at least 15 characters)
 
 application endponts
+
 Add book http://localhost:8000/api/add
+
 List of all books http://localhost:8000/api/getall
+
 Find books by Id http://localhost:8000/api/book/:bookId
+
 Update book http://localhost:8000/api/edit/:bookId
+
 Delete book http://localhost:8000/api/delete/:bookId
