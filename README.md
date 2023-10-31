@@ -1,12 +1,5 @@
 API Video Demonstration link => https://www.youtube.com/watch?v=4tKpo6kGqxI&t=29s
 
-application endpoints
-Add book http://localhost:8000/api/add,
-List of all books http://localhost:8000/api/getall,
-Find books by Id http://localhost:8000/api/book/:bookId,
-Update book http://localhost:8000/api/edit/:bookId,
-Delete book http://localhost:8000/api/delete/:bookId,
-
 Books Library API
 A book store restful API built with  nodejs , express, MongoDB , mongoose
 
