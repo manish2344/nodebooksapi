@@ -35,3 +35,23 @@ Find books by Id http://localhost:8000/api/book/:bookId
 Update book http://localhost:8000/api/edit/:bookId
 
 Delete book http://localhost:8000/api/delete/:bookId
+
+api server => https://booksapi-3664.onrender.com
+all endponts
+/add            => add book
+
+/getall         => get all books
+
+/book/:bookid   => find book by id
+
+/edit/:bookid   => update book
+
+/delete/:bookid  =>  delete book
+
+
+
+
+
+
+
+
